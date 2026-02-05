@@ -32,3 +32,15 @@ ___
 ***Link*** : [NutriNext.com](https://nutrinexthtml.netlify.app/)
 
 ***Contact us*** : [Contact page](./pages/contact.html)
+
+___
+
+## Contributors : 5
+
+
+ <a href="https://github.com/sushmitabhelkar24/html-github-group-project-nutrinext/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sushmitabhelkar24/html-github-group-project-nutrinext" />
+</a>
+
+
+___
